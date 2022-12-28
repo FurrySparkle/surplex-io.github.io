@@ -3,25 +3,24 @@ title: Wi-Fi Connection
 layout: home
 ---
 
-This Docs will guide you to setup Wi-Fi connection to your Surplex Shoes. 
+This doc will guide you through setting up the Wi-Fi connection of your Surplex Shoes. 
 
-Firstly, please check your currently connected Wi-Fi information on the computer that you intended to use Surplex's shoes with. You will need your Wi-Fi
+Firstly, please check your currently connected Wi-Fi information on the computer that you intend to use Surplex's shoes with. You will need your Wi-Fi
 1. Wi-Fi SSID (e.g., TP-LINK3592)
 2. Password
-3. Currently connected [IPv4] Address on your router. (e.g., 192.168.0.110)
+3. Currently connected [IPv4] Address on your router. (e.g., 192.168.1.101)
 
-It's suggested to [manually] fix your IPv4 address network setting on your computer. Otherwise, you will need to manually edit the IPv4 address everytime you change your IPv4 address within your home router. That can happens if, for example, other people took your IPv4 address. 
+It's suggested to [manually] fix your IPv4 address network setting on your computer. Otherwise, you will need to manually edit the IPv4 address every time you change your IPv4 address within your home router. That can happen if, for example, other people take your IPv4 address. 
 
 ---
 
-After you have abovementioned information. Please headover to Surplex's [firmware] site and download Surplex's firmware Code.
+After you have the abovementioned information. Please head over to Surplex's [firmware] site and download Surplex's firmware Code.
 
 Then, you would need to
 
-1. Edited files metadata in Surplex's firmware file.
+1. Edited `metadata` file in Surplex's firmware with the information above.
 2. Connected your Surplex Shoes to your computer
-3. Compile and Upload updated Surplex's firmware. 
-
+3. Compile and Upload updated Surplex firmware. 
 
 ----
 

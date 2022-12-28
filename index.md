@@ -14,6 +14,6 @@ There are three steps required before starting using your VR tracking shoes.
 and That's all!
 
 ----
-[Wi-Fi]: /wifi
+[Wi-Fi]: /wifi.html
 [SteamVR driver]: https://just-the-docs.github.io/just-the-docs/
 [software]: https://just-the-docs.github.io/just-the-docs/
