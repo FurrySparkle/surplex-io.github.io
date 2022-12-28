@@ -1,7 +1,7 @@
 title: Surplex
 description: Documentation for your Surplex VR Tracking Shoes
-theme: just-the-docs
-# remote_theme: just-the-docs/just-the-docs
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://just-the-docs.github.io
 
