@@ -8,8 +8,11 @@ layout: home
 
 This doc will guide you through setting up the Wi-Fi connection of your Surplex Shoes. 
 
-Firstly, please check your currently connected Wi-Fi information on the computer that you intend to use Surplex's shoes with. You will need your Wi-Fi
-1. Wi-Fi SSID (e.g., TP-LINK3592)
+Our shoes use Wi-Fi for data transmission. Hence, you would need a router in your house with good signal quality. (at least within the room you intended to use Surplex shoes)
+
+Firstly, please check your currently connected network information on the computer with which you intend to use Surplex's shoes. Having your computer connected to the router through a cable is suggested to ensure a robust connection. You will need your router's:
+
+1. SSID (e.g., TP-LINK3592)
 2. Password
 3. Currently connected [IPv4] Address on your router. (e.g., 192.168.1.120)
 
