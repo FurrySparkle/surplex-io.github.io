@@ -29,12 +29,11 @@ Please go through the following steps:
 
    You will have setup similar to this: (Port numbers will varies based on your system)
 
-   ![firmware_setting](assets/firmware_setting.png)
+   <img src="assets/firmware_setting.png" width="75%"/>
 
    You will see logs like this if it is successful: (Please contact us if it didn't work out for you)
 
-   ![success](assets/success.png)
-
+   <img src="assets/success.png" width="75%"/>
    
 
 5. In the main `.ino` file, comment out left metadata and uncomment right metadata as follow. Then upload firmware to the right shoes with the same steps as above.
