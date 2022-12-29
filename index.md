@@ -11,7 +11,11 @@ There are three steps required before starting using your VR tracking shoes.
 2. Download Compatible [SteamVR driver].
 3. Download Surplex's [software].
 
-and That's all!
+and That's all! Enjoy!
+
+----
+
+`Docs Last Updated at: Dec 29 2022, by Axl`
 
 ----
 [Wi-Fi]: /wifi.html
