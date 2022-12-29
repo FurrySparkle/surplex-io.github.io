@@ -24,5 +24,5 @@ and That's all! Enjoy!
 <!-- ---- -->
 
 [Wi-Fi]: /wifi.html
-[SteamVR driver]: https://just-the-docs.github.io/just-the-docs/
-[software]: https://just-the-docs.github.io/just-the-docs/
+[SteamVR driver]: /driver.html
+[software]: /software.html
