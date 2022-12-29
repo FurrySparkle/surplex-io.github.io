@@ -3,7 +3,13 @@ title: Home
 layout: home
 ---
 
-Hi, Surplex users! Welcome onboard, this is the docs site for your VR tracking shoes!
+# **Hi, Surplex users!**
+---
+
+{: .new-title }
+> Welcome onboard!
+>
+> This is the docs site for your VR tracking shoes!
 
 There are three steps required before starting using your VR tracking shoes.
 
@@ -13,11 +19,10 @@ There are three steps required before starting using your VR tracking shoes.
 
 and That's all! Enjoy!
 
-----
+<!-- ---- -->
 
 `Docs Last Updated at: Dec 29 2022, by Axl`
 
-----
 [Wi-Fi]: /wifi.html
 [SteamVR driver]: https://just-the-docs.github.io/just-the-docs/
 [software]: https://just-the-docs.github.io/just-the-docs/

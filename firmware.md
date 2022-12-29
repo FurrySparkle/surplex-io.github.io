@@ -2,6 +2,9 @@
 title: Surplex Firmware
 layout: home
 ---
+# **Surplex Firmware**
+---
+
 
 This doc will guide you through download and upload firmware to your Surplex's Shoes.
 
@@ -29,7 +32,6 @@ Please go through following steps:
 Once you have the firmware uploaded. Please head over to Surplex's [Driver] site and download Surplex's OpenVR driver for communicating between Surplex's shoes and VR headsets.
 
 
-----
 
 [repository]: https://github.com/surplex-io/surplex_firmware/
 [Cloud Editor]: https://create.arduino.cc/editor/

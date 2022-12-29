@@ -3,6 +3,9 @@ title: Wi-Fi Connection
 layout: home
 ---
 
+# **Wi-Fi**
+---
+
 This doc will guide you through setting up the Wi-Fi connection of your Surplex Shoes. 
 
 Firstly, please check your currently connected Wi-Fi information on the computer that you intend to use Surplex's shoes with. You will need your Wi-Fi
@@ -18,7 +21,6 @@ It's suggested to [manually] fix your IPv4 address network setting on your compu
 
 Once you have the abovementioned information. Please head over to Surplex's [firmware] site and download Surplex's firmware code and upload it to your Surplex's shoes.
 
-----
 
 [IPv4]: https://support.microsoft.com/en-us/windows/find-your-ip-address-in-windows-f21a9bbc-c582-55cd-35e0-73431160a1b9#Category=Windows_10
 [manually]: https://www.tp-link.com/us/support/faq/919/
