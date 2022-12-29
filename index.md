@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: home
+last_modified_date: "2022-12-29"
+
 ---
 
 # **Hi, Surplex users!**
@@ -20,8 +22,6 @@ There are three steps required before starting to use your VR tracking shoes.
 and That's all! Enjoy!
 
 <!-- ---- -->
-
-`Docs Last Updated at Dec 29 2022, by Axl`
 
 [Wi-Fi]: /wifi.html
 [SteamVR driver]: https://just-the-docs.github.io/just-the-docs/

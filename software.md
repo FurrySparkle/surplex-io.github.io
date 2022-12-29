@@ -1,8 +1,10 @@
 ---
 title: Surplex Software
 layout: home
+last_modified_date: "2022-12-29"
+
 ---
-# **Software**
+# **Surplex Software**
 ---
 
 This doc will guide you through installing software required for pose estimation with Surplex' shoes. 
