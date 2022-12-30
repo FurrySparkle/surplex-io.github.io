@@ -1,17 +1,38 @@
 ---
 title: Surplex Software
 layout: home
-last_modified_date: "2022-12-29"
+last_modified_date: "2022-12-30"
 
 ---
 # **Surplex Software**
 ---
 
-This doc will guide you through installing software required for pose estimation with Surplex' shoes. 
+This doc will guide you through installing the software required for Surplex shoes. 
+
+Please download the full version of our software with the link that has been sent to your email. Please check with our [support] if you haven't received it.
+
+Once you have the software, please unzip the file. You will find the file structure as follow:
+
+1. `main.exe`
+2. `function_test.exe`
+2. `assets/`
+
+Please execute `function_test.exe` when using Surplex's shoes for the first time.
+
+Unfinished: functional_test
+
+Once you have passed the `function_test.exe`, please start SteamVR with your VR headset ready. Then, you can go ahead to start `main.exe`. Please kindly wait for 5-10 seconds for the shoes to connect to your computer, then, you will see trackers connected to your SteamVR as follow:
+
+At the same time, `thread_mc` will output the current battery level, and data transmission quality.
 
 
-Under Development, please check back later.
+That's it, enjoy!
 
-[IPv4]: https://support.microsoft.com/en-us/windows/find-your-ip-address-in-windows-f21a9bbc-c582-55cd-35e0-73431160a1b9#Category=Windows_10
-[manually]: https://www.tp-link.com/us/support/faq/919/
-[firmware]: https://surplex-io.github.io/
+
+
+
+---
+
+Currently under development, please check back later for full docs.
+
+[support]: ../support.html

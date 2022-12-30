@@ -1,7 +1,7 @@
 ---
 title: Surplex Firmware
 layout: home
-last_modified_date: "2022-12-29"
+last_modified_date: "2022-12-30"
 
 ---
 # **Surplex Firmware**
@@ -11,7 +11,7 @@ last_modified_date: "2022-12-29"
 This doc will guide you through downloading and uploading firmware to your Surplex's Shoes.
 
 {: .note }
-Our firmware is developed on the platform of Arduino. We used Wi-Fi for data transmission. Hence, it's required for our shoes to connect to your home Wi-Fi. You will need to change the metadata (e.g., Wi-Fi password) in our firmware before uploading into our shoes. Don't hesitate to get in touch with support if you find it hard to follow through with the steps.
+Our firmware is developed on the platform of Arduino. We used Wi-Fi for data transmission. Hence, it's required for our shoes to connect to your home Wi-Fi. You will need to change the metadata (e.g., Wi-Fi password) in our firmware before uploading into our shoes. You might these tutorials helpful either when you are uploading with [Arduino IDE] or [Arduino Cloud Editor].<br/>Don't hesitate to get in touch with [support] if you find it hard to follow through with the steps.
 
 Please go through the following steps:
 
@@ -54,6 +54,9 @@ FAQ:
 
    It's suggested to create pull requests on Github rather than directly making changes to it, which might lead to malfunctioning devices.
 
+[Arduino IDE]: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+[Arduino Cloud Editor]: https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor
 [repository]: https://github.com/surplex-io/surplex_firmware/
 [Cloud Editor]: https://create.arduino.cc/editor/
 [Driver]: ../driver.html
+[support]: ../support.html
