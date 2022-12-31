@@ -9,9 +9,10 @@ last_modified_date: "2022-12-29"
 
 This doc will guide you through setting up Open-VR Driver required for communication between VR headsets and Surplex's shoes. Our driver is [open-sourced] on Github.
 
-Our OpenVR Driver is developed based on previously open-sourced OpenVR [driver] developed by John Dean. It used WebSocket to communicate between trackers and OpenVR. As a pre-requisite, you need to download [OpenSSL] and install it on your computer if you haven't done so before.
+{: .note }
+Our OpenVR Driver is developed based on previously open-sourced OpenVR [driver] developed by John Dean. It used WebSocket to communicate between trackers and SteamVR. As a pre-requisite, you would need to install [OpenSSL] on your computer if you haven't done so before.
 
-Then, you can install it by: Download the [driver file] and moving the `websocket_trackers` directory into the SteamVR driver's directory, which should be located somewhere at: 
+You can install the driver by: Download the [driver file] and moving the `websocket_trackers` directory into the SteamVR driver's directory, which should be located somewhere at: 
 ````
 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers
 ````
@@ -34,6 +35,6 @@ FAQ:
 [https://www.openssl.org/]: https://www.openssl.org/
 [driver]: https://github.com/John-Dean/OpenVR-Tracker-Websocket-Driver
 [OpenSSL]: https://slproweb.com/products/Win32OpenSSL.html 
-[driver file]: https://github.com/surplex-io/OpenVR-Driver/releases/download/1.0.0/websocket_trackers.zip
+[driver file]: https://github.com/surplex-io/OpenVR-Driver/releases/download/1.0.1/websocket_trackers.zip
 [software]: ../software.html
 [open-sourced]: https://github.com/surplex-io/OpenVR-Driver/

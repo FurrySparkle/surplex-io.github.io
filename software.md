@@ -21,9 +21,9 @@ Please execute `function_test.exe` when using Surplex's shoes for the first time
 
 Unfinished: functional_test
 
-Once you have passed the `function_test.exe`, please start SteamVR with your VR headset ready. Then, you can go ahead to start `main.exe`. Please kindly wait for 5-10 seconds for the shoes to connect to your computer, then, you will see trackers connected to your SteamVR as follow:
+Once you have passed the `function_test.exe`, please start SteamVR with your VR headset ready. Then, you can go ahead to start `main.exe`. Please wait for 5-10 seconds for the shoes to connect to your computer, then, you will see trackers connected to your SteamVR as follow:
 
-At the same time, `thread_mc` will output the current battery level, and data transmission quality.
+At the same time, `main.exe` will output the current battery level, and data transmission quality.
 
 
 That's it, enjoy!
