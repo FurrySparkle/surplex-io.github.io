@@ -1,7 +1,7 @@
 ---
 title: Surplex Software
 layout: home
-last_modified_date: "2022-12-30"
+last_modified_date: "2023-01-03"
 
 ---
 # **Surplex Software**
@@ -13,26 +13,15 @@ Please download the full version of our software with the link that has been sen
 
 Once you have the software, please unzip the file. You will find the file structure as follow:
 
-1. `main.exe`
-2. `function_test.exe`
-2. `assets/`
+1. `main/`
+2. `function_test/`
 
-Please execute `function_test.exe` when using Surplex's shoes for the first time.
+Please execute `function_test.exe` under `function_test` directory when using Surplex's shoes for the first time. The software will prompt you to move your shoes to test IMU readout and step on the shoes to test pressure sensors readout. If everything is set up correctly, you will be prompted `All Test Passed`. If you can't successfully go through the test, please contact our [support] team. 
 
-Unfinished: functional_test
+Once you have passed the `function_test.exe`, please start SteamVR with your VR headset ready. Then, you can go ahead to start `main.exe`. When you are using it for the first time, you will be prompted to provide some of your biology information such as height and weight. These data are saved in local and are used only for computation. Then, please wait 5-10 seconds for the shoes to connect to your computer, then, you will see trackers connected to your SteamVR.
 
-Once you have passed the `function_test.exe`, please start SteamVR with your VR headset ready. Then, you can go ahead to start `main.exe`. Please wait for 5-10 seconds for the shoes to connect to your computer, then, you will see trackers connected to your SteamVR as follow:
-
-At the same time, `main.exe` will output the current battery level, and data transmission quality.
-
+At the same time, `main.exe` will output the current battery level and data transmission quality.
 
 That's it, enjoy!
-
-
-
-
----
-
-Currently under development, please check back later for full docs.
 
 [support]: ../support.html
