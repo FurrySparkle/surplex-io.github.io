@@ -15,5 +15,5 @@ If you have any questions about the docs, You can find us through:
 3. Twitter: [SurplexIo]
 
 [SurplexIo]: https://twitter.com/SurplexIo
-[discord.gg/N7CjBQVjfp]: discord.gg/N7CjBQVjfp
+[discord.gg/N7CjBQVjfp]: https://discord.gg/N7CjBQVjfp
 [hello@surplex.io]: mailto:hello@surplex.io
