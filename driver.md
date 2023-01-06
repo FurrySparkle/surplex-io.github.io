@@ -21,7 +21,7 @@ C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers
 
 <img src="assets/driver_location.png" width="50%"/>
 
-Once you have done the steps above, please head over to Surplex [software] page for the final steps required before using Surplex's shoes!
+Once you have done the steps above, please head over to Surplex [wifi] page for uploading firmware to Surplex Shoes.
 
 
 ---
@@ -40,5 +40,5 @@ FAQ:
 [driver]: https://github.com/John-Dean/OpenVR-Tracker-Websocket-Driver
 [OpenSSL]: https://slproweb.com/products/Win32OpenSSL.html 
 [driver file]: https://github.com/surplex-io/OpenVR-Driver/releases/download/1.0.2/websocket_trackers.zip
-[software]: ../software.html
+[wifi]: ../wifi.html
 [open-sourced]: https://github.com/surplex-io/OpenVR-Driver/

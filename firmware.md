@@ -45,7 +45,7 @@ Please go through the following steps:
    <!-- ![right](assets/right.png) -->
 
 
-Once you have uploaded the firmware, please head over to Surplex's [Driver] site and download Surplex's OpenVR driver for communicating between Surplex's shoes and VR headsets.
+Once you have uploaded the firmware, please head over to Surplex's [software] page for the final steps required before using Surplex's shoes!
 
 
 ---
@@ -61,5 +61,5 @@ FAQ:
 [Arduino Cloud Editor]: https://docs.arduino.cc/arduino-cloud/getting-started/getting-started-web-editor
 [repository]: https://github.com/surplex-io/surplex_firmware/
 [Cloud Editor]: https://create.arduino.cc/editor/
-[Driver]: ../driver.html
+[software]: ../software.html
 [support]: ../support.html
