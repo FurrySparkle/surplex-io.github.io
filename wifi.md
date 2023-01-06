@@ -1,7 +1,7 @@
 ---
-title: Wi-Fi Connection
+title: 2. Wi-Fi Connection
 layout: home
-last_modified_date: "2022-12-29"
+last_modified_date: "2022-01-06"
 
 ---
 
@@ -16,7 +16,7 @@ Firstly, please check your currently connected network information on the comput
 
 1. SSID (e.g., TP-LINK3592)
 2. Password
-3. Currently connected [IPv4] Address on your router. (e.g., 192.168.1.120)
+3. Currently connected IPv4 ([Tutorial here]) Address on your router. (e.g., 192.168.1.120)
 
 
 {: .highlight }
@@ -27,6 +27,6 @@ If you are using Wi-Fi (i.e., not cable) on your computer, It's suggested to [ma
 Once you have the abovementioned information. Please head over to Surplex's [firmware] site and download Surplex's firmware code and upload it to your Surplex's shoes.
 
 
-[IPv4]: https://support.microsoft.com/en-us/windows/find-your-ip-address-in-windows-f21a9bbc-c582-55cd-35e0-73431160a1b9#Category=Windows_10
+[Tutorial here]: https://support.microsoft.com/en-us/windows/find-your-ip-address-in-windows-f21a9bbc-c582-55cd-35e0-73431160a1b9#Category=Windows_10
 [manually]: https://www.tp-link.com/us/support/faq/919/
 [firmware]: ../firmware.html

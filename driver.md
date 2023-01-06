@@ -1,7 +1,7 @@
 ---
-title: SteamVR Driver
+title: 1. SteamVR Driver
 layout: home
-last_modified_date: "2022-12-29"
+last_modified_date: "2022-01-06"
 
 ---
 # **OpenVR Driver**
@@ -16,6 +16,10 @@ You can install the driver by: Download the [driver file] and moving the `websoc
 ````
 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers
 ````
+
+   <!-- ![driver_location](assets/driver_location.png) -->
+
+<img src="assets/driver_location.png" width="50%"/>
 
 Once you have done the steps above, please head over to Surplex [software] page for the final steps required before using Surplex's shoes!
 

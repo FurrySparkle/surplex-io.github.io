@@ -1,7 +1,7 @@
 ---
-title: Home
+title: -- Home
 layout: home
-last_modified_date: "2022-12-29"
+last_modified_date: "2022-01-06"
 
 ---
 
@@ -15,9 +15,9 @@ last_modified_date: "2022-12-29"
 
 There are three steps required before starting to use your VR tracking shoes.
 
-1. Setup [Wi-Fi] connections of Surplex shoes to your home Wi-Fi.
-2. Download Compatible [SteamVR driver].
-3. Download Surplex's [software].
+1. Download Compatible [SteamVR driver].
+2. Retrieve your home [Wi-Fi] information and [upload] them into Surplex shoes.
+3. Download Surplex's [software] and run it.
 
 and That's all! Enjoy!
 
@@ -25,4 +25,5 @@ and That's all! Enjoy!
 
 [Wi-Fi]: /wifi.html
 [SteamVR driver]: /driver.html
+[upload]: /firmware.html
 [software]: /software.html
