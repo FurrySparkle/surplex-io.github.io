@@ -13,7 +13,7 @@ last_modified_date: "2023-01-07"
 >
 > This is the docs site for your VR tracking shoes!
 
-There are three steps required before starting to use your VR tracking shoes.
+When you receive your Surplex VR Tracking shoes, they are not charged fully. Before starting, please charge them to Full (Green Light). Once you have done so, there are three steps required before starting to use your VR tracking shoes:
 
 1. Download Compatible [SteamVR driver].
 2. Retrieve your home [Wi-Fi] information and [upload] them into Surplex shoes.
