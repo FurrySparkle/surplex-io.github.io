@@ -21,10 +21,10 @@ Please go through the following steps:
 
 3. First, download [Arduino Cloud addon] for code upload. 
 
-4. Then, go to `surplex_firmware_left.ino` file, change the **SECRET** metadata to your own Wi-Fi information (Check Menu "Wi-Fi Connection" if you do not know where to find this information). Please remember to add double quotes before and after your information, for example:
+4. Then, go to `surplex_firmware_left.ino` file, change the **SECRET** metadata to your own Wi-Fi information (Check Menu "Wi-Fi Connection" if you do not know where to find this information). 
 
    <img src="assets/firmware_change_info.png" width="100%"/>
-   <img src="assets/secret.png" width="100%"/>
+   <!-- <img src="assets/secret.png" width="100%"/> -->
 
 
 5. Upload firmware to the left shoe:
