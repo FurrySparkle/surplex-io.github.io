@@ -39,6 +39,6 @@ FAQ:
 [https://www.openssl.org/]: https://www.openssl.org/
 [driver]: https://github.com/John-Dean/OpenVR-Tracker-Websocket-Driver
 [OpenSSL]: https://slproweb.com/products/Win32OpenSSL.html 
-[driver file]: https://github.com/surplex-io/OpenVR-Driver/releases/download/1.0.2/websocket_trackers.zip
+[driver file]: https://github.com/surplex-io/OpenVR-Driver/releases/download/1.1.0/websocket_trackers.zip
 [wifi]: ../wifi.html
 [open-sourced]: https://github.com/surplex-io/OpenVR-Driver/
