@@ -1,7 +1,7 @@
 ---
 title: 2. Wi-Fi Connection
 layout: home
-last_modified_date: "2022-01-06"
+last_modified_date: "2023-01-07"
 
 ---
 
