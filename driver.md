@@ -12,7 +12,11 @@ This doc will guide you through setting up Open-VR Driver required for communica
 {: .note }
 Our OpenVR Driver is developed based on previously open-sourced OpenVR [driver] developed by John Dean. It used WebSocket to communicate between trackers and SteamVR. As a pre-requisite, you would need to install [OpenSSL] on your computer if you haven't done so before.
 
-You can install the driver by: Download the [driver file] and moving the `websocket_trackers` directory into the SteamVR driver's directory, which should be located somewhere at: 
+Two drivers are required:
+1. Please download and install [Openssl]
+2. Please Download the [driver file] and moving the `websocket_trackers` directory into the SteamVR driver’s directory, which should be located somewhere at:
+
+
 ````
 C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers
 ````
